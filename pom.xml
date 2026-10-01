@@ -32,7 +32,7 @@
         <maven.compiler.release>25</maven.compiler.release>
         <slack.version>1.51.0</slack.version>
         <slf4j.version>2.0.19</slf4j.version>
-        <mockito.version>5.23.0</mockito.version>
+        <mockito.version>5.24.0</mockito.version>
         <byte-buddy.version>1.18.13</byte-buddy.version>
     </properties>
 
